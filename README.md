@@ -1,4 +1,7 @@
 # landingPage
+Front: 
+![Captura de pantalla de 2022-03-06 18-28-02](https://user-images.githubusercontent.com/76276463/156947759-3c57538b-2a05-4ff6-ae72-1d28bcdafa40.png)
+
 
 This template should help get you started developing with Vue 3 in Vite.
 
